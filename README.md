@@ -5,6 +5,7 @@ using Python, NumPy, and Pandas.
 
 ## Current dataset
 - Tour booking dataset
+- Fifa 21 data set with players complete record
 - Cleaned columns, fixed encoding issues, handled missing values
 - Converted monetary columns to numeric format
 
