@@ -8,6 +8,7 @@ using Python, NumPy, and Pandas.
 - Fifa 21 data set with players complete record
 - Cleaned columns, fixed encoding issues, handled missing values
 - Converted monetary columns to numeric format
+- Netflix data set cleaned and visualized using numpy pandas and matplotlib
 
 ## Files
 - `tour_booking_clean.ipynb` — data cleaning notebook
