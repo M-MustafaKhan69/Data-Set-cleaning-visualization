@@ -5,10 +5,10 @@ using Python, NumPy, and Pandas.
 
 ## Current dataset
 - Tour booking dataset
-- Fifa 21 data set with players complete record
 - Cleaned columns, fixed encoding issues, handled missing values
 - Converted monetary columns to numeric format
 - Netflix data set cleaned and visualized using numpy pandas and matplotlib
+-  complete visualization of each collumn using matplotlib library through graphs barplot histogram pie charts.
 
 ## Files
 - `tour_booking_clean.ipynb` — data cleaning notebook
